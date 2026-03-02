@@ -1,2 +1,2 @@
-Um professor de padel precisa automatizar, via informalização, os jogos treinos dele. Um ogo é composto por 4 atletas de categoria igual (categoria 1, 2, 3, 4, 5, 6). 
+Um professor de padel precisa automatizar, via informalização, os jogos treinos dele. Um jogo é composto por 4 atletas de categoria igual (categoria 1, 2, 3, 4, 5, 6). 
 Esse jogo treino deve ser em um dia, uma hora, em uma quadra de um clube. O professor lança um jogo informando o dia, a hora, a quadra, o clube e a categoria do jogo treino. E os atletas entram nesse jogo, ou compõe esse jogo
