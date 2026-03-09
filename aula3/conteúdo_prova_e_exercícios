@@ -1,0 +1,27 @@
+Primeira unidade: modelar no nível conceitual um banco de dados
+  -Conceitos básicos:
+    - sistema
+    - partes de um sistema: aspectos funcionais e estruturais
+    - análise de requisitos e processo gerenciador de banco de dados
+    - banco de dados vs sistema gerenciador de banco de dados
+  - Modelagem - criação de diagramas ou esquemas
+    - Nível ou fase conceitual
+      - mostrar ou ilustrar
+        - ENTIDADES (futuras tabelas)
+        - ATRIBUTOS (váriaveis de uma tabela)
+          - identificador(es)
+          - complementares
+        - RELACIONAMENTOS (futuras chaves estrangeiras)
+          - simples
+          - herança
+         - CARDINALIDADES (a quantidade de relação de um objeto com outro entre tabelas
+    - Nível ou fase LÓGICA: pensar nas chaves estrangeiras e ajudar o programador
+    - Nível ou fase FÍSICA: pensar na linguagem e tecnologia
+
+Exercicio de revisão:
+  - É necessário modelar um esquema de banco de dados para um fluxo ou funcionalidade de um sistema de submissão de projetos em uma instituição.
+    Em uma instituição, há professores/pesquisadores que submetem projetos de extensão. Um projeto possui título, resumo, coordenador (professor/pesquisador),
+    equipe (relação de professores/pesquisadores), área de pesquisa (TECNOLOGIA, SAUDE, HUMANAS, SOCIAL), uma instituição responsável. Uma instituição tem nome, sigla e endereço.
+    Um pesquisador/professor possui nome, email, cpf, número de celular. Todo o projeto submetido precisa passar por uma avaliação. A avaliação é composta por uma submissão de projeto, 
+    um avaliador responsável (professor/pesquisador), um avalidaro suplente (professor/pesquisador), campo para parecer, data limite de perecer, resultado (APROVADO, REPROVADO, EM CORREÇÃO).
+      
