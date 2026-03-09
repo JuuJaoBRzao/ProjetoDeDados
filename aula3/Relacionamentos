@@ -1,0 +1,12 @@
+Relacionamentos:
+  - Simples: Professor (0...N) ----------- (1...N) Area
+
+  - Herança:                Funcionario
+                    /            |              \  
+                   /             |               \
+               Professor      Tecnico      Administrativo
+
+  - Associação: Medico -------- Exame -------- Paciente
+                                  |
+                                  |  
+                             Laboratório
