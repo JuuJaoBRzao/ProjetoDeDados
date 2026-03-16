@@ -26,6 +26,6 @@
             - Funcionalidades ou finalidades do sistema
 
     - Estudo de cardinalidades
-        - 1 para N: chaveestrangeira vai para tabela/entidade do N
+        - 1 para N: chave estrangeira vai para tabela/entidade do N
         - N para N: cria-se uma terceira tabela e as chaves estrangeiras vão para lá
         - 1 para 1: chave estrangeira vai ou visita a tabela
