@@ -1,0 +1,31 @@
+- Modeladem - 'Desenho'
+    - Conceitual: nível abstrato com entidades, atributos, relacionamentos e cardinalidades
+        - Interação com cliente
+        - geração de documentação
+    - Lógico: nível de programação, fooc nas chaves estrangeiras
+    - Físico: nível de SGBD e tecnologia
+
+- Conceitos
+    - BD vs SGBD: estrutura de armazenamento vs conjunto de serviços para o BD
+
+        - serviços do SGBD:
+            - garantir integridade do banco
+            - garantir transações
+            - garantir backup
+
+    - Sistema Computacional
+        - Sistema de Informação: fooc no relatório
+        - Sistema de Conhecimento: foco no reconehcimento de padrões
+            - armazenar mais atributos 
+            - evitar danos nulos
+
+    - Partes ou elementos de um Sistema
+        - Parte ou aspectos estruturais
+            - BD
+        - Parte ou aspectos funcionais
+            - Funcionalidades ou finalidades do sistema
+
+    - Estudo de cardinalidades
+        - 1 para N: chaveestrangeira vai para tabela/entidade do N
+        - N para N: cria-se uma terceira tabela e as chaves estrangeiras vão para lá
+        - 1 para 1: chave estrangeira vai ou visita a tabela
