@@ -1,0 +1,30 @@
+SGBD - Serviços:
+  - Restrições de integridade
+  - Funções: programados e condicionados
+  - Gestão de transações
+  - Manipulação de dados
+
+Operações sobre BD:
+  - Inserção
+  - Remoção
+  - Atualização
+
+-- Manipulação de dados --
+
+DDL - Data Definition Language
+  - Esquema (BD) -- criar/create
+  - Tabela -- alterar/update
+  - Restrição -- remover/drop
+
+DML - Data Manipulation Language
+  - Tabela -- selecionar/SELECT
+  - Relacionamentos -- alterar/UPDATE --- campos/atributos/colunas
+  -- remover/DELETE
+ 
+  - Algebra Relacional
+    - Projeção: seleção sem condição
+    - Seleção: seleção com condição
+    - União/OR
+    - Interseção/AND
+    - Diferença/MINUS
+    - Divisao/??
